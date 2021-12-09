@@ -23,7 +23,8 @@ For POST request
 ![image](https://user-images.githubusercontent.com/48040683/145468810-f59b159e-1051-471c-aa73-42800f4266ba.png)
 
 
-![image](https://user-images.githubusercontent.com/48040683/145469708-b9ee985d-67e1-4620-bd45-4fc56be8a5d4.png)
+
+![image](https://user-images.githubusercontent.com/48040683/145470947-7e55e663-1f1a-467b-a3cb-959ff3011d0a.png)
 
 
 
